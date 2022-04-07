@@ -138,7 +138,7 @@ button:hover{
     width: 100vw;
     height: 60vh;
     display: inline-block;
-    background-image: url("../../Assets/guy-programming.png");
+    background-image: url("../../../Assets/guy-programming.png");
     background-size: cover;
 }
 
