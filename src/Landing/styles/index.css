@@ -187,14 +187,14 @@ button:hover{
 }
 
 .twitter__btn {
-width: 8rem;
-height: 2rem;
-background-color: transparent;
-border: 2px solid var(--azul);
-border-radius: 1rem;
-font-size: 1.2rem;
-color: white;
-transition: 0.6s;
+    width: 8rem;
+    height: 2rem;
+    background-color: transparent;
+    border: 2px solid var(--azul);
+    border-radius: 1rem;
+    font-size: 1.2rem;
+    color: white;
+    transition: 0.6s;
 }
 
 .twitter__btn a {
